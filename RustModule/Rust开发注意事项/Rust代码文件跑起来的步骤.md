@@ -14,7 +14,7 @@ cd ./greeting
 ### 编写与修改代码 (Coding)
 使用 VS Code 打开 src/main.rs 进行编写
 
-### 4. 编译项目 (Building)
+### 编译项目 (Building)
 ```
 cargo build
 ```
