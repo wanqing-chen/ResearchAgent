@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.env.local
+*.env
+
+# 编辑器
+.vscode/settings.json
+.idea/
+
+
